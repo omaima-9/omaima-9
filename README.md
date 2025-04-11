@@ -1,11 +1,3 @@
-<h1 align="center">Hello, it's me, Omaima :)</h1>
-
-##  A senior computer science student. Looking to enhance my practical knowledge in Data Science and Software development
-
-- 👀 I’m passionate about data, interested in data analysis, visualization, big data and more.
-- 👩‍💻I just finished a 5 months internship as a big data engineer intern at a multinational company called Orange Business.
-- 🌱 I’m done working on my bachelor project, the aim of this project is to detect bullying in social media automatically using deep learning, NLP and sentiment analysis techniques.
-- 💞️ I’m looking to enhance my practical knowledge in Data Science and Software engineering 
 - 📫 How to reach me (omaima.ahmed99@hotmail.com)
 
 
